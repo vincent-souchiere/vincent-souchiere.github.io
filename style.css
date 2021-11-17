@@ -1,0 +1,36 @@
+h1{
+font-size: 30px;
+text-align: center;
+color: #222222
+}
+
+h2{
+font-size: 20px;
+text-align: center;
+color: #222222
+}
+
+body{
+font-size: 16px;
+font-family: Helvetica, sans-serif;
+color: #232323;
+background-color: #EEF0E3;
+}
+
+.container {
+	max-width: 50em;
+	margin-left: auto;
+	margin-right:auto;
+	text-align:justify;
+}
+
+.container-marque {
+	column-width: 20em;
+}
+
+.container-site {
+	max-width: 50em;
+	margin-left: auto;
+	margin-right:auto;
+	text-align:center;
+}
